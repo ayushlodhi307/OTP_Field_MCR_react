@@ -1,0 +1,13 @@
+.otp{
+  flex-direction: column;
+}
+
+.box{
+
+  height: 50px;
+  width: 50px;
+  border: 1px solid black;
+  margin: 10px;
+
+
+}
